@@ -28,7 +28,7 @@ my %WriteMakefileArgs = (
     "Moose" => 0,
     "MooseX::App" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.046",
   "test" => {
     "TESTS" => ""
   }

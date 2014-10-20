@@ -7,5 +7,5 @@ README
 README.md
 bin/bagit.pl
 dist.ini
-lib/Archive/Bagit/App.pm
-lib/Archive/Bagit/App/Verify.pm
+lib/Archive/BagIt/App.pm
+lib/Archive/BagIt/App/Verify.pm

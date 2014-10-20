@@ -1,5 +1,5 @@
 package Archive::BagIt::App;
-$Archive::BagIt::App::VERSION = '0.001';
+$Archive::BagIt::App::VERSION = '0.046';
 use MooseX::App;
 
 
@@ -15,6 +15,6 @@ Archive::BagIt::App - The MooseX::App that bagit.pl runs
 
 =head1 VERSION
 
-version 0.001
+version 0.046
 
 =cut

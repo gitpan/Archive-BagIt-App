@@ -18,4 +18,4 @@ requires:
   File::Find: '0'
   Moose: '0'
   MooseX::App: '0'
-version: '0.001'
+version: '0.046'
