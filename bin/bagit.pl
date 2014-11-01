@@ -26,7 +26,7 @@ bagit.pl - commandline interface to the Archive::BagIt library
 
 =head1 VERSION
 
-version 0.002
+version 0.047
 
 =head1 NAME
 
