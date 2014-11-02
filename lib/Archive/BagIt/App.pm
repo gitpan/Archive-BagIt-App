@@ -3,7 +3,7 @@ use strict;
 use warnings;
 use MooseX::App;
 
-our $VERSION = '0.048'; # TRIAL VERSION
+our $VERSION = '0.049'; # VERSION
 
 1;
 
@@ -19,7 +19,7 @@ Archive::BagIt::App
 
 =head1 VERSION
 
-version 0.048
+version 0.049
 
 =head1 NAME
 

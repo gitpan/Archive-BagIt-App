@@ -3,7 +3,7 @@ package Archive::BagIt::App::Verify;
 use strict;
 use warnings;
 
-our $VERSION = '0.048'; # TRIAL VERSION
+our $VERSION = '0.049'; # VERSION
 
 use MooseX::App::Command;
 
@@ -70,7 +70,7 @@ Archive::BagIt::App::Verify
 
 =head1 VERSION
 
-version 0.048
+version 0.049
 
 =for Pod::Coverage abstract run
 
